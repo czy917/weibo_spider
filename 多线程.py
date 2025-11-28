@@ -594,4 +594,5 @@ XSRF-TOKEN=g_fUhERnpslVHrKYOmBRIT_I; WBPSESS=pCRaIcAtN6DhisyErIW0eYJci_b370fT494
         logging.info(f"爬虫统计：{stats}")
 
     except Exception as e:
+
         logging.error(f"爬虫运行失败：{str(e)}")

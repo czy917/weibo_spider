@@ -1,2 +1,2 @@
 # weibo_spider
-通过目标yonghuid和cookie获取该用户所有文章的标题信息
+通过目标用户id和cookie获取该用户所有文章的标题信息，保存为json后存到mongodb中
